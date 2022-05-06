@@ -14,4 +14,4 @@ image = "cover_image.png"
 
 This project was carried out as part of my studies in Applied Data Science at the University of Bern. The aim was to build a deep learning model based on Convolutional Neural Networks (CNN) in order to automatically detect vibrational mode shapes computed through Finite Element Method (FEM).
 
-{{< embed-pdf url="./pdf/eigenfreq_classification.pdf" >}}
+{{< embed-pdf url="./eigenfreq_classification.pdf" >}}

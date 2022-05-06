@@ -13,4 +13,4 @@ tags = [
 
 You can find the paper at the following [link](https://www.sciencedirect.com/science/article/abs/pii/S0894177718309178).
 
-{{< embed-pdf url="./pdf/psp_paper.pdf" >}}
+{{< embed-pdf url="./psp_paper.pdf" >}}
